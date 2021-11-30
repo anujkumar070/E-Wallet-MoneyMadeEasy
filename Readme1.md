@@ -1,4 +1,4 @@
-Project Title: E-wallet: Money Made Easy
+# E-wallet: Money Made Easy
 
 This is a E wallet kind of service, targeted at users in colleges and universities. User can do simple banking task in just few clicks.
 It has HTML5, CSS3 and JS in FrontEnd.
