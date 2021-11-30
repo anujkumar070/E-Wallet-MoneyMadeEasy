@@ -1,0 +1,134 @@
+button.signup{
+  position: fixed;
+  top:10px;
+  left: 900px;
+  width:150px;
+  height:70px;
+  background-color:#18314f;
+  color:white;
+}
+button.home{
+  position: fixed;
+  top:10px;
+  left: 1090px;
+  width:150px;
+  height:70px;
+  background-color:#18314f;
+  color:white;
+}
+
+button.logout{
+	position: fixed;
+	top:10px;
+	left: 1000px;
+	width:150px;
+	height:70px;
+  background-color:#18314f;
+  color:white;
+}
+div{
+  position: fixed;
+  top:210px;
+  left: 250px;
+  margin: auto;
+  height:16px;
+  margin: auto;
+  width:800px;
+  height: 350px;
+  overflow: auto;
+  font-family: Sofia;
+  font-size: 12pt;
+ 
+  text-align: center;
+  color:white;
+  background-color:#18314f;
+}
+div.signup
+{
+  padding: 20px;
+  background-color:#18314f;
+}
+.loginpasschange, .transpasschange{
+	display: none;
+  background-color:#18314f;
+}
+
+.back1, .back2{
+  color:white;
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+  background-color:#18314f;
+}
+.back1:hover,
+.back1:focus, 
+.back2:hover,
+.back2:focus{
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.delacc{
+	position: fixed;
+	padding-top: 20px;
+	padding-left: 20px;	
+	text-align: left;
+  background-color:#18314f;
+}
+
+.topnav {
+  position: fixed;
+  top: 120px;
+  left:0px;
+  width:100%;
+  height: 50px;
+  overflow: hidden;
+  background-color:#18314f;
+  color:white;
+  padding-left:35px;
+  padding-right:35px;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color:#18314f;
+}
+
+.topnav a:hover {
+  font-size:18px;
+  font-weight: bold;
+  color:white;
+}
+
+.topnav a.active {
+  
+  background-color:#18314f;
+  
+  
+  color:white;
+  
+}
+tr:hover{
+	background-color: #99ffcc;
+  color:black;
+
+}
+footer{ 
+	position:absolute;
+	top:610px;
+	color:white;
+	width:97%;
+	text-align:center;
+	background-color:#18314f;
+	font-family:Sofia;
+	padding:20px;
+	height:15px;
+}
+
+
+

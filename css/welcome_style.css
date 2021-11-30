@@ -1,0 +1,55 @@
+body{
+	margin: 50px;
+background-color:#18314f;
+}
+div{background-color:white; height:530px; margin:35px; border-radius:20px;margin-left:110px; margin-right:110px;}
+img{
+	position:fixed;
+	top:100px;
+	left:330px;
+	width:600px;
+	height: 180px;
+}
+button{
+	background-color: #18314f;
+		border-radius: 15px;
+		font-family: Sofia;
+		font-size: 12pt;
+		margin:0px;
+		width: 200px;
+		height: 50px;
+}
+button.home{
+	position: fixed;
+		top: 300px;
+		left: 530px;
+	background-color:#18314f;
+	color:white;
+	border:none;
+}
+
+button.login{
+		position: fixed;
+		top: 375px;
+		left: 530px;
+	background-color:#18314f;
+	color:white;
+	border:none;
+}
+button:hover{
+	font-size: 17pt;
+	background-color:#18314f;
+	color:white;
+	font-weight: italic;
+	border:none;
+
+}
+button.signup{
+		position: fixed;
+		top: 450px;
+		left: 530px;
+	color:white;
+	background-color:#18314f;
+	border:none;
+
+}

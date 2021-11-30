@@ -1,0 +1,56 @@
+canvas{
+	    border: 1px solid black;
+		background-image: radial-gradient(circle, #84CEEB 40%,#5BA9EA 60%,#C1C8E4 80%,#8860D0 100%) ;
+}
+body{
+	margin: 0px;
+}
+button, .btn1{
+	background-color:#18314f;
+		border-radius: 25px;
+		font-family: Sofia;
+		font-size: 12pt;
+		width: 150px;
+		height: 50px;
+		color:white;
+		border: 2px light white;
+		border-radius:15px;
+		text-align:center;
+}
+button:hover{
+	font-size: 18pt;
+	color:white;
+	font-weight: italic;
+
+}
+.btn1:hover{
+	font-size: 18pt;
+	color:white;
+	font-weight: italic;
+
+}
+img{
+	position:fixed;
+	top:10px;
+	left:20px;
+	width:200px;
+	height: 80px;
+}
+input,select{
+	border-radius: 5px;
+}
+
+.container{
+	position: fixed;
+	top:250px;
+	left: 40px;
+	width:1230px;
+	height: 200px;
+	font-family: Sofia;
+	font-size: 17px;;
+	border-radius: 15px;
+	background-color:#18314f;
+	color:white;
+	text-align:center;
+	padding:25px;
+}

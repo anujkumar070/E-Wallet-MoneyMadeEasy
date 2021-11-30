@@ -1,0 +1,78 @@
+button.login{
+	position: fixed;
+	top:18px;
+	left: 900px;
+	width:150px;
+	height:60px;
+	background-color:#18314f;
+	color:white;
+}
+button.signup{
+	position: fixed;
+	top:18px;
+	left: 1090px;
+	width:150px;
+	height:60px;
+	background-color:#18314f;
+	color:white;
+}
+table{
+	position: fixed;
+	top:105px;
+	left:0px;
+	color:white;
+	border-spacing:2px;
+	width:100%;
+	background-color:#18314f;
+	
+}
+td{
+	background-color:#18314f;
+	margin-right: 3px;
+	font-family: Sofia;
+	font-size: 20px;
+	width:300px;
+	height:50px;
+	border-radius: 10px;
+	text-align: center;
+	color:white;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+div{
+	position: fixed;
+	top:250px;
+	left: 40px;
+	width:1230px;
+	height: 200px;
+	font-family: Sofia;
+	font-size: 17px;;
+	border-radius: 15px;
+	background-color:#18314f;
+	color:white;
+	text-align:center;
+	padding:25px;
+}
+h1{
+	text-align:center;
+	font-family: Sofia;
+	color:white;
+}
+td:hover, a:hover{
+	background-color:#18314f;
+	font-size: 20pt;
+	color:white;
+}	
+footer{ 
+	position:absolute;
+	top:602px;
+	color:white;
+	width:97%;
+	text-align:center;
+	background-color:#18314f;
+	font-family:Sofia;
+	padding:20px;
+	height:1px;
+}
