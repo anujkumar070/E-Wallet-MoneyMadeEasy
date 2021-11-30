@@ -46,7 +46,7 @@ if (isset($_POST['transbtn'])) {
         $to=$_SESSION['email'];
         $subject = "Your MoneyMadeEasy OTP ";
         $txt = "Your OTP to complete your transaction is:" .$rndno ."\n  Developed by Anuj & Burhanuddin";
-        $headers = "From: ewallet.moneymadeeasy@gmail.com";
+        $headers = "From: your email id";
         mail($to, $subject, $txt, $headers);
 
 
