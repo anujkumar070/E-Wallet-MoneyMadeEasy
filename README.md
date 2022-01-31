@@ -23,7 +23,7 @@ In case any Query regarding this project , feel free to ask.
 <img src="https://github.com/anujkumar070/E-Wallet-MoneyMadeEasy/blob/main/Demo%20Images/signuppage.JPG"></img>
 <h3> Transaction Page</h3>
 <img src="https://github.com/anujkumar070/E-Wallet-MoneyMadeEasy/blob/main/Demo%20Images/transactionpage.JPG"></img>
-<h3> Delete Account Page Page</h3>
+<h3> Delete Account Page</h3>
 <img src="https://github.com/anujkumar070/E-Wallet-MoneyMadeEasy/blob/main/Demo%20Images/deleteaccount.JPG"></img>
 <h3> Logout Page</h3>
 <img src="https://github.com/anujkumar070/E-Wallet-MoneyMadeEasy/blob/main/Demo%20Images/logout.JPG"></img>
